@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    background-color: #222;
+    color: #fff;
+  }
+  
+  header {
+    text-align: center;
+    background-color: darkgray;
+  }
+  
+  header h1 {
+    font-size: 2em;
+  }
+  
+  header p {
+    font-size: 1.5em;
+  }
+  
+  #about img {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  #about p {
+    font-size: 1.2em;
+  }
+  
+  #skills ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  #projects ul {
+    list-style-type: none;
+  }
+  
+  #projects li {
+    margin-bottom: 10px;
+  }
+  
+  #projects h3 {
+    font-size: 1.5em;
+  }
+  
+  #projects p {
+    font-size: 1em;
+  }
+  
+  #resume p {
+    text-align: center;
+  }
+  
+  #contact ul {
+    list-style-type: none;
+  }
+  
+  #contact li {
+    margin-bottom: 5px;
+  }
+  
+  footer {
+    text-align: center;
+    font-size: 0.8em;
+  }
+  
